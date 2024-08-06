@@ -45,6 +45,9 @@ fi
 ```
 
 ## Changelog
+### v1.3
+- Works on macOS 15 Sequoia.
+
 ### v1.2
 - Works both on Intel and Apple Silicon.
 - Languages as Environment Variables.
